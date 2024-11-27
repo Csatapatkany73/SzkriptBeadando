@@ -4,6 +4,7 @@
 Szentpéteri Roland Tamás
 
 ## Feladat leírása
+A program egy grafikus felületen (Tkinter) véletlenszámokat generál (random modullal), ezeket kiírja egy saját függvénnyel (SzRT_modul), majd egy vonaldiagramot rajzol hozzá (matplotlib).
 Egy Python program, amely tartalmaz:
 - Tanult modult: `random`
 - Bemutatott modult: `matplotlib`
